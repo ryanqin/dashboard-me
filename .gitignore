@@ -1,0 +1,19 @@
+node_modules
+.next
+out
+build
+*.log
+*.pid
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# SQLite — created on first run, contains your data.
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Build artifacts
+tsconfig.tsbuildinfo
+next-env.d.ts

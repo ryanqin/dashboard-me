@@ -1,0 +1,12 @@
+{
+  "id": "mini-habits-primer",
+  "title": "Mini Habits, in your pocket",
+  "author": "dashboard-me",
+  "cover": "📘",
+  "description": "A short primer on the Mini Habits model that this dashboard is built around — show up small, win every day, let consistency do the compounding.",
+  "chapters": [
+    { "id": "01-why-tiny", "title": "01 · Why tiny", "file": "01-why-tiny.md" },
+    { "id": "02-the-floor",  "title": "02 · The floor, not the ceiling", "file": "02-the-floor.md" },
+    { "id": "03-streaks",    "title": "03 · Streaks aren't the point", "file": "03-streaks.md" }
+  ]
+}

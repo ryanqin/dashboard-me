@@ -1,0 +1,11 @@
+{
+  "long": [
+    { "id": "shipping-craft", "title": "持续打磨工程功底", "note": "算法 + 系统设计 + 工具链熟练度", "since": "2026-01-01" },
+    { "id": "writing-cadence", "title": "每周输出一篇技术写作", "note": "把读到的、做到的、想清楚的写下来", "since": "2026-01-01" }
+  ],
+  "short": [
+    { "id": "demo-goal-1", "title": "替换为你的当周重点", "note": "示例条目 — 编辑 data/goals.json 填入你自己的目标", "due": null, "urgent": false },
+    { "id": "demo-goal-2", "title": "完成 Mini Habits 第 1 周", "note": "每天 ≥1 分钟，先把节律建立起来", "due": null, "urgent": false },
+    { "id": "demo-goal-3", "title": "整理上周 retrospective", "note": "标 urgent: true 后会高亮显示在档案页", "due": null, "urgent": false }
+  ]
+}
